@@ -1,2 +1,2 @@
-# learn
-For exploring git and git-hub
+#learn updated
+for train
